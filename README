@@ -1,4 +1,4 @@
-# Emotion-Detection
+## Emotion-Detection
 Emotion Detection using Convolutional Neural Networks (CNNs).
 This project aims to develop a comprehensive system that detects and classifies human emotions from uploaded images using Convolutional Neural Networks (CNNs). The application is built using Python and integrated into a user-friendly Streamlit interface. The project combines cutting-edge techniques from machine learning, computer vision, and user interface design to provide real-time emotion classification. The solution targets real-world applications in domains like healthcare, education, and customer service, where emotion recognition can offer valuable insights.
 A deep learning-powered web application that detects human emotions from facial images using a Convolutional Neural Network (CNN), built with PyTorch and deployed via Streamlit.
